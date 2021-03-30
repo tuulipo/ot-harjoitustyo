@@ -19,14 +19,14 @@ Sovelluksella on kolme käyttäjäroolia: opiskelija, opettaja ja pääkäyttäj
 ## Toiminnallisuus
 
 ### Kirjautuminen
-Käyttäjä valitsee oman roolinsa mukaisen kirjautumisen (student/teacher/admin) ja syöttää avautuvaan login-ikkunaan ID-numeronsa (10 numeroa) ja salasanansa. Aluksi vain Admin-tunnukset ovat luotuna ja admin-käyttäjä voi kirjautua sisään. Valitusta kirjautumistavasta voi palata kirjautumistavan valintaan.
+Käyttäjä valitsee oman roolinsa mukaisen kirjautumisen (student/teacher/admin) ja syöttää avautuvaan login-ikkunaan ID-numeronsa (4 numeroa) ja salasanansa (4 kirjainta). Aluksi vain Admin-tunnukset ovat luotuna ja admin-käyttäjä voi kirjautua sisään. Valitusta kirjautumistavasta voi palata kirjautumistavan valintaan.
 
 ### Kirjautumisen jälkeen
 
 Admin-käyttäjä voi
 
 * luoda uuden opiskelijan/opettajan tunnukset
-  * avautuu pääikkuna, johon syötetään luotavan tunnuksen rooli, ID-numero ja salasana ja tunnus luodaan painamalla create
+  * avautuu pääikkuna, johon syötetään luotavan tunnuksen rooli, ID-numero sekä salasana, ja tunnus luodaan painamalla create
   * palata pääikkunaan
 * poistaa opiskelijan/opettajan tunnukset 
   * palata pääikkunaan
