@@ -1,4 +1,4 @@
-# Vaatimusmäärittely opintojen seurantajärjestelmä -sovellukselle
+# Vaatimusmäärittely
 
 ## Sovelluksen tarkoitus
 Sovellus on opiskelijoille ja opettajille tarkoitettu opintojen seurantajärjestelmä. Opiskelija kirjautuu sisään järjestelmään ja näkee kaikki suorittamansa opintonsa. Opiskelija voi myös suunnitella tulevia opintojaan. 
