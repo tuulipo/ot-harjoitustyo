@@ -47,7 +47,7 @@ Opettaja-käyttäjä voi pääikkunassa
 * siirtyä lisäämään uutta kurssia painamalla *ADD A NEW COURSE*
   * kurssi tarvitsee nimen, koodin, aloituspäivämäärän ja opintopistemäärän, hyväksytään painamalla *ADD*
   * palata takaisin pääikkunaan painamalla *BACK*
-* merkitä suorituksen opiskelijalle
+* merkitä suorituksen opiskelijalle painamalla *GIVE CREDITS TO A STUDENT*
   * suoritus tarvitsee nimen, kurssi-ID:n ja arvosanan ja se hyväksytään painamalla *ADD*
   * palata takaisin pääikkunaan painamalla *BACK*
 * tarkastella opiskelijan suorituksia painamalla *STUDENTS' RECORDS*
