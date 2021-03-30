@@ -25,10 +25,10 @@ Käyttäjä valitsee oman roolinsa mukaisen kirjautumisen (student/teacher/admin
 
 Admin-käyttäjä voi
 
-* luoda uuden opiskelijan/opettajan tunnukset
+* luoda uuden opiskelijan/opettajan tunnukset painamalla *CREATE A STUDENT/TEACHER*
   * avautuu pääikkuna, johon syötetään luotavan tunnuksen rooli, ID-numero sekä salasana, ja tunnus luodaan painamalla *CREATE*
   * palata pääikkunaan painamalla *BACK*
-* poistaa opiskelijan/opettajan tunnukset 
+* poistaa opiskelijan/opettajan tunnukset painamalla *DELETE A STUDENT/TEACHER*
   * palata pääikkunaan painamalla *BACK*
 * kirjautua ulos painamalla *LOGOUT*
  
