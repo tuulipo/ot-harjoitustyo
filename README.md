@@ -9,3 +9,6 @@
 * [Maksukortti-testailua](https://github.com/tuulipo/ot-harjoitustyo/tree/master/laskarit/viikko2/Maksukortti)
 * [Vaatimusmäärittely](https://github.com/tuulipo/ot-harjoitustyo/blob/master/Dokumentaatio/Vaatimusmaarittely.md)
 * [Testikattavuusmäärittely](https://github.com/tuulipo/ot-harjoitustyo/blob/master/laskarit/viikko2/Testikattavuusraportti.png)
+
+### Viikko 3
+* [Työaikakirjanpito](https://github.com/tuulipo/ot-harjoitustyo/blob/master/Dokumentaatio/Tyoaikakirjanpito.md)
